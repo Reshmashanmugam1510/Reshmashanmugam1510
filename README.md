@@ -39,19 +39,36 @@ I aspire to become a **Web Developer**, **UI/UX Designer**, and **AI Engineer** 
 
 ## 💡 Tech Stack & Tools
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,python,c,java,cpp" alt="Languages" />
-  <br/>
-  <!-- Web Tech -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" alt="Web Technologies" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,canva" alt="Tools & Platforms" />
-  <br/>
-  <!-- OS -->
-  <img src="https://skillicons.dev/icons?i=windows,linux" alt="Operating Systems" />
-</p>
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,python,c,java,cpp" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web Technologies</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" alt="Web Technologies" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & Platforms</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,vscode,figma,canva" alt="Tools & Platforms" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Operating Systems</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=windows,linux" alt="Operating Systems" />
+    </td>
+  </tr>
+</table>
 
 ---
 
