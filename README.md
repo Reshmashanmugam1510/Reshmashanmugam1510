@@ -133,7 +133,6 @@ To grow into an **AI/ML Engineer** who ships real-world solutions in **Deep Lear
 
 | Project | What I Built | Tech |
 |---|---|---|
-| 👁️ **Face Time Counter** | Modular real-time webcam-based screen-time and attention tracker with session logging, report generation and a live overlay | Python, OpenCV |
 | 🚲 **Bike Rental Demand Prediction** | Compared **7 ML models** (Linear, Ridge, Lasso, Decision Tree, Random Forest, Gradient Boosting, XGBoost) on the UCI Bike Sharing dataset; Random Forest and XGBoost performed best | Python, Scikit-learn, XGBoost |
 | 🏗️ **Concrete Strength Prediction** | Regression model to predict concrete compressive strength, reaching **R² = 0.92** | Python, XGBoost |
 | 👗 **Fashion MNIST Classifier** | CNN-based image classification | Python, TensorFlow/Keras |
